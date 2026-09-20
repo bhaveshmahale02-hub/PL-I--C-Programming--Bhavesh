@@ -7,7 +7,8 @@ Solution(1) -> User Define Values
 int main()
 
 {
-  int a,b,temp;
+
+   int a,b,temp;
 
     a = 111;
     b = 222;
